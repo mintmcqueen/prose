@@ -1,6 +1,6 @@
 # OpenProse Language Reference
 
-OpenProse is a domain-specific language for orchestrating AI agent sessions. This document provides complete documentation for the language syntax, semantics, and execution model.
+OpenProse is a programming language for AI sessions. An AI session is a Turing-complete computer; this document provides complete documentation for the language syntax, semantics, and execution model.
 
 ---
 
