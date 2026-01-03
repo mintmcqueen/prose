@@ -74,7 +74,7 @@ Switch platforms anytime. Your `.prose` files work everywhere.
 
 ```bash
 /plugin marketplace add git@github.com:openprose/prose.git
-/plugin install prose@open-prose
+/plugin install open-prose@open-prose
 ```
 
 Then:
@@ -138,7 +138,7 @@ The OpenProse VM is an AI session that acts as an intelligent runtime:
 
 | File | Purpose | When to Read |
 |------|---------|--------------|
-| `interpreter.md` | OpenProse VM semantics | Always, for running programs |
+| `prose.md` | OpenProse VM semantics | Always, for running programs |
 | `docs.md` | Full language spec | For compilation, validation, or syntax questions |
 
 ## FAQ
